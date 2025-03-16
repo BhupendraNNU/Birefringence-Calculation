@@ -46,7 +46,7 @@ Point 3: RGB: (118, 95, 56), Birefringence: 0.0406
 
 License
 
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
 
 Author: BhupendraNNU
 If you use this work, please credit the author.
